@@ -112,5 +112,6 @@ export const skillsData = [
   // "Express",
   "PostgreSQL",
   "Python",
+  "Flask"
   // "Django",
 ] as const;
